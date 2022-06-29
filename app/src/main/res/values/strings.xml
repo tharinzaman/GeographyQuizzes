@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Geography Quizzes</string>
+    <string name="flag_quiz_title">Flag Quiz</string>
+    <string name="capital_cities_quiz_title">Capital Cities Quiz</string>
+    <string name="country_outline_quiz_title">Country Outline Quiz</string>
+    <string name="submit">Submit</string>
+    <string name="next_question">Go to next question</string>
+    <string name="finish">Finish</string>
+    <string name="go_home">Go to Home Page</string>
+    <string name="choose_new_quiz">Choose a new quiz</string>
+    <string name="outline_question">What country is this?</string>
+    <string name="flag_question">What country does this flag belong to?</string>
+    <string name="sureQuit">Are you sure?</string>
+    <string name="warningQuit">If you quit, your progress will be lost and the quiz won\'t be saved?</string>
+</resources>
